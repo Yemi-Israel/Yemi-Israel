@@ -2,7 +2,7 @@
 
 🚀 Data Analyst (Python, Excel, SQL) & WordPress Developer  
 
-I build modern WordPress websites for businesses and I’m also a Data Analyst versed in using Excel, SQL and Python.
+I build modern WordPress websites for businesses and I’m also a Data Analyst versed in Excel, SQL and Python.
 
 ---
 
