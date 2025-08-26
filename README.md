@@ -1,4 +1,4 @@
-# Hi 👋, I'm Opeyemi Oladipupo (Yemi)
+# Hi 👋, I'm Opeyemi Oladipupo (Yemi-Israel)
 
 🚀 Data Analyst (Python, Excel, SQL) & WordPress Developer  
 
