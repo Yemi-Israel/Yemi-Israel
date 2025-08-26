@@ -35,4 +35,4 @@ I build modern WordPress websites for businesses and I’m currently expanding i
 
 ---
 
-📫 Reach me: **your-email@example.com** | [LinkedIn](your-linkedin-url)  
+📫 Reach me: **oladipupoope@gmail.com** | [LinkedIn](https://www.linkedin.com/in/opeyemi-oladipupo-2a40bb222/)  
