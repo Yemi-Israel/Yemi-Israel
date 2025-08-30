@@ -1,38 +1,37 @@
-# Hi 👋, I'm Opeyemi Oladipupo (Yemi-Israel)
+# Hi 👋, I'm Opeyemi Israel Oladipupo (Yemi-Israel)
+Data Analyst (Python, SQL, Excel) | Web Developer (WordPress & Frontend)
 
-🚀 Data Analyst (Python, Excel, SQL) & WordPress Developer  
+I design modern websites for businesses and deliver data-driven insights through analysis and visualization.
+With a background in Microbiology, I also bring problem-solving and analytical thinking into every project I build.
+I have created professional websites for businesses across multiple industries.
 
-I build modern WordPress websites for businesses and I’m also a Data Analyst versed in Excel, SQL and Python.
+🌐 Web Development Projects
 
----
+musibauolaiyaconstruction.com.ng
 
-## 🔹 WordPress Development (Live Projects)
+nigeriapropertyverification.ng
 
-- **[musibauolaiyaconstruction.com.ng](https://musibauolaiyaconstruction.com.ng)**  
-  Corporate site for a construction company.  
-  - Custom theme & responsive design  
-  - Portfolio integration & contact forms  
-  - SEO optimization  
+mejohisandcompany.com
 
-- **[nigeriapropertyverification.ng](https://nigeriapropertyverification.ng)**  
-  Real estate/property verification platform.  
-  - Property listing features  
-  - Custom plugin integration  
-  - Secure authentication  
+hafrufbakltd.com.ng
 
-- **[mejohisandcompany.com](https://mejohisandcompany.com)**  
-- **[hafrufbakltd.com.ng](https://hafrufbakltd.com.ng)**  
-- **[summysolutionandtechnology.com](https://summysolutionandtechnology.com)**  
-  Professional WordPress websites built for business owners across multiple industries.  
+summysolutionandtechnology.com
 
----
 
-## 🔹 Data Analysis Projects 
 
-- **Sales Data Analysis** – Python project to analyze monthly company sales data and visualize trends.  
-- **Customer Feedback Sentiment Analysis** – Python project to analyze and visualize positive/negative customer reviews.  
-- **Covid-19 Data Visualization** – Comparative analysis of Nigeria vs global data using Pandas & Matplotlib.  
 
----
+📊 Data Analysis Projects
 
-📫 Reach me: **oladipupoope@gmail.com** | [LinkedIn](https://www.linkedin.com/in/opeyemi-oladipupo-2a40bb222/)  
+Sales Data Analysis – Analyzing monthly sales trends using Python (Pandas, Matplotlib).
+
+Customer Feedback Sentiment Analysis – NLP project classifying positive/negative customer reviews.
+
+Covid-19 Data Visualization – Comparative analysis of Nigeria vs global datasets.
+
+📫 Let’s Connect
+
+Email: oladipupoope@gmail.com
+
+LinkedIn: linkedin.com/in/opeyemi-oladipupo-2a40bb222
+
+Portfolio: yemi-israel.github.io/Portfolio-site
