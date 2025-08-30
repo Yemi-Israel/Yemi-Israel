@@ -7,26 +7,17 @@ I have created professional websites for businesses across multiple industries.
 
 🌐 Web Development Projects
 
-musibauolaiyaconstruction.com.ng
-
-nigeriapropertyverification.ng
-
-mejohisandcompany.com
-
-hafrufbakltd.com.ng
-
-summysolutionandtechnology.com
-
-
-
+- musibauolaiyaconstruction.com.ng
+- nigeriapropertyverification.ng
+- mejohisandcompany.com
+- hafrufbakltd.com.ng
+- summysolutionandtechnology.com
 
 📊 Data Analysis Projects
 
-Sales Data Analysis – Analyzing monthly sales trends using Python (Pandas, Matplotlib).
-
-Customer Feedback Sentiment Analysis – NLP project classifying positive/negative customer reviews.
-
-Covid-19 Data Visualization – Comparative analysis of Nigeria vs global datasets.
+- Sales Data Analysis – Analyzing monthly sales trends using Python (Pandas, Matplotlib).
+- Customer Feedback Sentiment Analysis – NLP project classifying positive/negative customer reviews.
+- Covid-19 Data Visualization – Comparative analysis of Nigeria vs global datasets.
 
 📫 Let’s Connect
 
