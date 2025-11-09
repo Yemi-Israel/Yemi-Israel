@@ -25,4 +25,4 @@ Email: oladipupoope@gmail.com
 
 LinkedIn: linkedin.com/in/opeyemi-oladipupo-2a40bb222
 
-Portfolio: yemi-israel.github.io/Portfolio-site
+Portfolio: opeyemi.github.io
