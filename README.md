@@ -1,4 +1,4 @@
-# Hi 👋, I'm Opeyemi Israel Oladipupo (Yemi-Israel)
+# Hi 👋, I'm Opeyemi Israel Oladipupo
 Data Analyst (Python, SQL, Excel) | Web Developer (WordPress & Frontend)
 
 I design modern websites for businesses and deliver data-driven insights through analysis and visualization.
